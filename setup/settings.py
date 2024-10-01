@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'prova1.apps.Prova1Config',
+    
 ]
 
 MIDDLEWARE = [
